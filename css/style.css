@@ -1,0 +1,93 @@
+header {
+    background: #fde6e1;
+    width: 100%;
+    float: left;
+    max-height: 80px;
+    padding: 10px 0;
+}
+header .logo-header img {
+    display: block;
+    width: auto;
+    height: 60px;
+    margin: 0 auto;
+}
+.text p {
+    font-size: 14px;
+    width: 90%;
+    text-align: justify;
+}
+.image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.video iframe {
+    width: 100%;
+    min-height: 300px;
+    border-radius: 10px;
+}
+section {
+    float: left;
+    width: 100%;
+    padding: 50px 0;
+}
+#map {
+    position: relative !important;
+    width: 100% !important;
+    height: 500px !important;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.bg-purple{
+    background: #1c0035;
+}
+.bg-rose{
+    background: #e94249;
+}
+footer {
+    background: #1c0035;
+    width: 100%;
+    float: left;
+    border-top: 1px solid #1c0035;
+    padding: 10px 0;
+}
+footer .logo-footer img {
+    width: auto;
+    height: 80px;
+    display: block;
+    margin: 0 auto;
+}
+footer .logo-footer p {
+    display: block;
+    margin: 0;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    margin-top: 10px;
+}
+.bg-purple h4 {
+    font-weight: bold;
+    color: #e94249;
+    font-size: 35px;
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+.bg-purple p {
+    color: #fff;
+    font-size: 16px;
+    text-align: left;
+}
+.bg-rose h4 {
+    font-weight: bold;
+    color: #1c0035;
+    font-size: 35px;
+    margin-bottom: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+.bg-rose p {
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
